@@ -4,7 +4,7 @@
 
 ### 1.对象存活分析
 
-![Image text](./img/1.png)
+![image text](https://github.com/AmusingOurselves/java02-work/blob/main/week02/img/1.png)
 
 ### 2.GC算法
 
